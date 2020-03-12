@@ -1,5 +1,3 @@
-import Tarea from './homeworks/homework-1.js';
-
 export default () => {
   const home = `
               <h1>Bienvenido a revisar algunas de las tareas realizadas para el Bootcam de <b>Adathink Lab</b></h1>

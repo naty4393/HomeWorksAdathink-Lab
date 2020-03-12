@@ -1,4 +1,4 @@
-import { suma, resta, division, multiplicacion } from '../../src/function-controller/homework1/functions-homework1.js.js'
+import { suma, resta, division, multiplicacion } from '../function-controller/homework1/functions-homework1.js'
 
 export default () => {
   const homework1 = `
