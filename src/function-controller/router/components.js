@@ -1,4 +1,4 @@
-import Home from '../../../home.js';
+import Home from '../../home.js';
 import Tarea1 from '../homeworks/homework-1.js';
 import Tarea2 from '../homeworks/homework-2.js';
 

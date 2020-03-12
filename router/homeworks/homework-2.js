@@ -1,5 +1,5 @@
-import { objectPerson } from '../function-controller/homework2/functions-homework2.js'
-import { modal } from '../function-controller/homework2/modal.js'
+import { objectPerson } from '../../homework2/functions-homework2.js'
+import { modal } from '../../src/function-controller/homework2/modal.js.js'
 
 export default () => {
 	const homework2 = `
